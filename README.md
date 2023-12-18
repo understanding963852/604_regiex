@@ -22,6 +22,13 @@
 
 
 
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/2efc7d18-872e-4750-9f08-0f52552bba49)
+
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/aff12b22-5705-4be9-ba39-592336feca70)
+
+# gr로 시작하고 중간글자가  e 또는 a 가 되고  y로 끝나는것을 찾음
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/9d54dcca-ffcd-4356-89f1-c43fc5a24122)
+
 
 
 
