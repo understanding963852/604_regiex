@@ -18,7 +18,7 @@
    - ()  : 그룹
    - []  : 문자셋, 괄호안의 어떤 문자든
    - [^] : 부정 문자셋, 괄호안의 어떤 문자가 아닐때
-   - (?) : 찾지만 기억하지는 않음 
+   - (?:) : 찾지만 기억하지는 않음 
 
 
 
@@ -28,6 +28,13 @@
 
 # gr로 시작하고 중간글자가  e 또는 a 가 되고  y로 끝나는것을 찾음
 ![image](https://github.com/understanding963852/604_regiex/assets/60366769/9d54dcca-ffcd-4356-89f1-c43fc5a24122)
+
+# 찾아는 지지만 그룹으로 만들고 싶지 않다면 사용   
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/b0330007-df73-4950-b376-e16bb13e9f91)
+
+
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/f9f241d8-8285-435f-a584-8692f7ff50f4)
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/2d28193c-416a-4f1b-a96f-8fc57b7e49d4)
 
 
 
