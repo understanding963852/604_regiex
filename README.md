@@ -33,8 +33,17 @@
 ![image](https://github.com/understanding963852/604_regiex/assets/60366769/b0330007-df73-4950-b376-e16bb13e9f91)
 
 
+# gr로 시작하고 a또는 e 또는 d 가 있고 y로 끝남
+# [aed]  --> 대괄호안에 있는 글자중 하나라도 만족하는것을 찾아라는 의미 
 ![image](https://github.com/understanding963852/604_regiex/assets/60366769/f9f241d8-8285-435f-a584-8692f7ff50f4)
+
 ![image](https://github.com/understanding963852/604_regiex/assets/60366769/2d28193c-416a-4f1b-a96f-8fc57b7e49d4)
+
+
+# 아래 두 이미지는 gr로 시작하고 a~g사이의 글자중 하나라도 포함되고 y로 끝나는 것을 찾음
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/81b911a6-9879-4a3a-ae04-ed042aba73a9)
+
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/79687923-4c92-4c7d-b7ab-01f7ca06c3ab)
 
 
 
