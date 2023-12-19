@@ -45,6 +45,9 @@
 
 ![image](https://github.com/understanding963852/604_regiex/assets/60366769/79687923-4c92-4c7d-b7ab-01f7ca06c3ab)
 
+# a 부터 z까지, A 부터 Z까지 0부터 9까지 하나라도 만족하면 모두 찾는다
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/ae66b905-31e8-4e99-92f7-fed568a7c623)
 
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/7a6b0e0f-2e4e-4bb4-8693-1d5f94b356fa)
 
 
