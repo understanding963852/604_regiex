@@ -73,3 +73,29 @@
 
 # ? :있거나 없거나 (많거나X)
 ![image](https://github.com/understanding963852/604_regiex/assets/60366769/f1f5fe3f-fec7-4aff-b53a-0c6ab1dcc129)
+
+# * :있거나 없거나 많거나
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/b3313be5-ab40-4287-9136-b3f7e2227e32)
+
+# + : 하나 또는 많거나(one or more)
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/26fa9597-3e6c-49c7-94e7-89b89c01470a)
+
+
+# {n} : n번 반복
+
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/ee8b5521-2c00-4756-b3fd-fd71754b85b6)
+
+# {min,} : 최소
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/2520e054-bd40-49cb-bc6e-9ace1325ead7)
+
+
+# {min,max} : 최소 그리고 최대
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/b3ae102f-4b85-4f70-bddf-ed8282e0ce99)
+
+
+
+
+   - \b  : 단어경계      
+   - \B  : 단어경계가 아님
+   - ^   : 문장의 시작
+   - $   : 문장의 끝
