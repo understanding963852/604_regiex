@@ -1,3 +1,5 @@
+#  https://regexr.com/5mhou  --> 기본연습 사이트
+
 # 정규표현식
 # /regiex/  ==> Regular expression의 약자
 
@@ -92,10 +94,55 @@
 # {min,max} : 최소 그리고 최대
 ![image](https://github.com/understanding963852/604_regiex/assets/60366769/b3ae102f-4b85-4f70-bddf-ed8282e0ce99)
 
+# \b : 단어경계   --> /\bYa/  --> Ya인데 단어중에서 Ya로 시작하는 Ya를 찾는다
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/81f9d500-a492-4b4a-9c50-28b6a19440f1)
+
+# \b : 단어경계   --> /Ya\b/  --> 단어중에서 Ya로 끝나는것
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/7bb73fd8-cf67-4947-833d-0221cb89c991)
+
+# \B : 단어경계가 아님 --> /Ya\B/  --> 단어중에서 Ya로 끝나지 않는 Ya
+
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/e45efac7-c8da-445f-af21-4ac163af65a8)
+
+
+# ^ : 문장의 시작 --> /^Ya/  -->  문장의 시작인 Ya
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/a9bb4caa-13ec-4fb8-bdf8-f224cdd1a435)
+
+
+# $ : 문장의 끝  --> /Ya$/  -->  문장의 끝인 Ya
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/1ffc8a25-4b97-403d-9084-ac475bb3a927)
+
+#  . : 어떤 글자(줄바꿈 문자 제외)
+#  /./  --> 모든문자
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/1ff23ace-f5d8-4a8b-a575-c143c59d415a)
+
+# \ : 특수문자  --> /\./ --> 특수문자 .를 찾고자할때
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/17ff58e4-6f42-4cfa-9a64-92f215b9a603)
+
+
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/e127da75-bb8e-4013-a2a6-fcb8e3796a2f)
+
+#  \d: 숫자     -->   /\d/
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/b1d3c75d-5fda-4b55-a2db-8cce5bbe7c8a)
+
+# \D: 숫자 아님
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/a262f7b3-290b-448d-8896-6bdf013e02a4)
+
+#  \w : 문자  --> 문자와 숫자
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/fe63b242-bbe6-4bca-a1cb-4875930ee43c)
+
+# \W : 문자 아님
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/252f2d83-d80f-4363-9348-3a09a9f362fb)
+
+# \s : 공백
+![image](https://github.com/understanding963852/604_regiex/assets/60366769/6039252d-ee38-4765-9289-d55d613c917c)
+
+
+# \S : 공백 아님
+
+![Uploading image.png…]()
 
 
 
-   - \b  : 단어경계      
-   - \B  : 단어경계가 아님
-   - ^   : 문장의 시작
-   - $   : 문장의 끝
+
+
